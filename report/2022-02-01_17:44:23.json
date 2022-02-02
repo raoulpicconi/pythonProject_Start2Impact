@@ -1,0 +1,866 @@
+{
+    "highest_traded": {
+        "id": 825,
+        "name": "Tether",
+        "symbol": "USDT",
+        "slug": "tether",
+        "num_market_pairs": 27237,
+        "date_added": "2015-02-25T00:00:00.000Z",
+        "tags": [
+            "payments",
+            "stablecoin",
+            "asset-backed-stablecoin",
+            "binance-smart-chain",
+            "avalanche-ecosystem",
+            "solana-ecosystem",
+            "moonriver-ecosystem"
+        ],
+        "max_supply": null,
+        "circulating_supply": 77980427990.8946,
+        "total_supply": 80074893058.66304,
+        "platform": {
+            "id": 1027,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "slug": "ethereum",
+            "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        "cmc_rank": 3,
+        "self_reported_circulating_supply": null,
+        "self_reported_market_cap": null,
+        "last_updated": "2022-02-01T16:43:00.000Z",
+        "quote": {
+            "USD": {
+                "price": 1.0005025937701653,
+                "volume_24h": 44899297063.9614,
+                "volume_change_24h": 7.585,
+                "percent_change_1h": 0.00464249,
+                "percent_change_24h": 0.01698496,
+                "percent_change_7d": 0.00865387,
+                "percent_change_30d": 0.00774068,
+                "percent_change_60d": -0.02412468,
+                "percent_change_90d": -0.03858876,
+                "market_cap": 78019620468.19765,
+                "market_cap_dominance": 4.379,
+                "fully_diluted_market_cap": 80115138201.06,
+                "last_updated": "2022-02-01T16:43:00.000Z"
+            }
+        }
+    },
+    "top_10_by_increment": [
+        {
+            "id": 12993,
+            "name": "Kuro Shiba",
+            "symbol": "KURO",
+            "slug": "kuro-shiba",
+            "num_market_pairs": 1,
+            "date_added": "2021-10-22T04:10:10.000Z",
+            "tags": [
+                "harmony-ecosystem"
+            ],
+            "max_supply": 500000000,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 3945,
+                "name": "Harmony",
+                "symbol": "ONE",
+                "slug": "harmony",
+                "token_address": "0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b"
+            },
+            "cmc_rank": 8355,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:40:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 0.0035865189168574276,
+                    "volume_24h": 3.03e-06,
+                    "volume_change_24h": 0.1482,
+                    "percent_change_1h": 0,
+                    "percent_change_24h": 2561799226326734000,
+                    "percent_change_7d": -52.08193833,
+                    "percent_change_30d": -38.25602635,
+                    "percent_change_60d": -51.67350125,
+                    "percent_change_90d": -81.53555771,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 1793259.46,
+                    "last_updated": "2022-02-01T16:40:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 13987,
+            "name": "DYOR Token",
+            "symbol": "DYOR",
+            "slug": "dyor-token",
+            "num_market_pairs": 4,
+            "date_added": "2021-11-07T08:36:43.000Z",
+            "tags": [],
+            "max_supply": 1001100000000000000,
+            "circulating_supply": 0,
+            "total_supply": 1001100000000000000,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x10051147418c42218986cedd0adc266441f8a14f"
+            },
+            "cmc_rank": 5969,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 1.6278489210936456e-05,
+                    "volume_24h": 8763.87889,
+                    "volume_change_24h": 0,
+                    "percent_change_1h": 1.01802527,
+                    "percent_change_24h": 17072829840.443495,
+                    "percent_change_7d": 17072829840.443495,
+                    "percent_change_30d": 727815851.2653766,
+                    "percent_change_60d": 479454630.7646132,
+                    "percent_change_90d": 126873232.83011949,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 16296395549068.49,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 14312,
+            "name": "Good Fire Token",
+            "symbol": "GF",
+            "slug": "good-fire-token",
+            "num_market_pairs": 3,
+            "date_added": "2021-11-11T05:43:19.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 1000000000,
+            "platform": {
+                "id": 5805,
+                "name": "Avalanche C-Chain",
+                "symbol": "AVAX",
+                "slug": "avalanche",
+                "token_address": "0x09ad4a1746ab9ecc96bb67d919de3c6b54cc879f"
+            },
+            "cmc_rank": 9060,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 1.6536777255535844,
+                    "volume_24h": 0,
+                    "volume_change_24h": -100,
+                    "percent_change_1h": -0.45718433,
+                    "percent_change_24h": 619385.98393979,
+                    "percent_change_7d": 211502.91130081,
+                    "percent_change_30d": 98417.21712583,
+                    "percent_change_60d": 67828.7957491,
+                    "percent_change_90d": 92561.30442756,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 1653677725.55,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 15486,
+            "name": "PumpETH",
+            "symbol": "PETH",
+            "slug": "pumpeth",
+            "num_market_pairs": 1,
+            "date_added": "2021-12-02T07:55:42.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x2e74Ee4fc4466d0883eF5E12A0Ce344BFe15BE8D"
+            },
+            "cmc_rank": 4268,
+            "self_reported_circulating_supply": 1000000000000,
+            "self_reported_market_cap": 520757.6670190563,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 5.207576670190562e-07,
+                    "volume_24h": 110552.57256535,
+                    "volume_change_24h": 25.7086,
+                    "percent_change_1h": 0.36755596,
+                    "percent_change_24h": 108719.26057943,
+                    "percent_change_7d": 94538.84348051,
+                    "percent_change_30d": -99.88484598,
+                    "percent_change_60d": -90.66243525,
+                    "percent_change_90d": 5308.18646482,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 0,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 17082,
+            "name": "DOGEFOOD",
+            "symbol": "DOGEFOOD",
+            "slug": "dogefood",
+            "num_market_pairs": 1,
+            "date_added": "2022-01-10T11:22:01.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x1bec41a36356d5574aeb068b599ab7e48dd008b8"
+            },
+            "cmc_rank": 4953,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 2.3955649272228e-11,
+                    "volume_24h": 43843.73484224,
+                    "volume_change_24h": 3468.2623,
+                    "percent_change_1h": 0.46922685,
+                    "percent_change_24h": 14310.89362578,
+                    "percent_change_7d": 16711.3665423,
+                    "percent_change_30d": -1.8711241,
+                    "percent_change_60d": -1.8711241,
+                    "percent_change_90d": -1.8711241,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 0,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 3664,
+            "name": "AgaveCoin",
+            "symbol": "AGVC",
+            "slug": "agavecoin",
+            "num_market_pairs": 4,
+            "date_added": "2019-01-04T00:00:00.000Z",
+            "tags": [
+                "commodities",
+                "discount-token"
+            ],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 35000000000,
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0x8b79656FC38a04044E495e22fAD747126ca305C4"
+            },
+            "cmc_rank": 8099,
+            "self_reported_circulating_supply": 3316619594,
+            "self_reported_market_cap": 271863668.58869845,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 0.08197010868551796,
+                    "volume_24h": 29.81869483,
+                    "volume_change_24h": -39.2927,
+                    "percent_change_1h": 1.36817456,
+                    "percent_change_24h": 2854.86879235,
+                    "percent_change_7d": 399.08435288,
+                    "percent_change_30d": 4209.82273996,
+                    "percent_change_60d": -2.59035382,
+                    "percent_change_90d": -7.56597678,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 2868953803.99,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 17516,
+            "name": "Son of Babydoge",
+            "symbol": "SOB",
+            "slug": "son-of-babydoge",
+            "num_market_pairs": 1,
+            "date_added": "2022-01-20T23:36:06.000Z",
+            "tags": [],
+            "max_supply": 1000000000000000,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0xdede8bf8d378ff9860ba1b89d792bea3709bc041"
+            },
+            "cmc_rank": 4531,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 1.5869904240949548,
+                    "volume_24h": 77643.11303308,
+                    "volume_change_24h": 1951.6707,
+                    "percent_change_1h": 1.37143655,
+                    "percent_change_24h": 2058.52358127,
+                    "percent_change_7d": 178146926.37451702,
+                    "percent_change_30d": 929316929083.3392,
+                    "percent_change_60d": 929316929083.3392,
+                    "percent_change_90d": 929316929083.3392,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 1586990424094954.8,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 17506,
+            "name": "Wall Street Capital",
+            "symbol": "WSC",
+            "slug": "wall-street-capital",
+            "num_market_pairs": 1,
+            "date_added": "2022-01-20T08:20:17.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 1000000000,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x3f203c1403Ce39d4D42c4667287A7fB2b1DB1066"
+            },
+            "cmc_rank": 4157,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 0.0007393822216006727,
+                    "volume_24h": 126439.91854976,
+                    "volume_change_24h": 51430.488,
+                    "percent_change_1h": 23.18490595,
+                    "percent_change_24h": 2052.41552239,
+                    "percent_change_7d": 2452.78651595,
+                    "percent_change_30d": -22.11493269,
+                    "percent_change_60d": -22.11493269,
+                    "percent_change_90d": -22.11493269,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 739382.22,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 17513,
+            "name": "GLOWV2",
+            "symbol": "GLOWV2",
+            "slug": "glow-v2",
+            "num_market_pairs": 1,
+            "date_added": "2022-01-20T13:52:34.000Z",
+            "tags": [],
+            "max_supply": 450000000000000,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x05de1dbfcdc876f790371508b97c337640dcd6a9"
+            },
+            "cmc_rank": 3576,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 7.548814812381371e-09,
+                    "volume_24h": 368309.32824587,
+                    "volume_change_24h": 0,
+                    "percent_change_1h": 10.27577946,
+                    "percent_change_24h": 1686.29833355,
+                    "percent_change_7d": 265.88664191,
+                    "percent_change_30d": 203.78623418,
+                    "percent_change_60d": 203.78623418,
+                    "percent_change_90d": 203.78623418,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 3396966.67,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 16473,
+            "name": "AnonToken",
+            "symbol": "ANT",
+            "slug": "anontoken",
+            "num_market_pairs": 1,
+            "date_added": "2021-12-27T03:44:37.000Z",
+            "tags": [],
+            "max_supply": 1000000000000000,
+            "circulating_supply": 0,
+            "total_supply": 1000000000000000,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0xD283cE7Acd177f7cf6caBB7ce5B11fDA3605659e"
+            },
+            "cmc_rank": 7743,
+            "self_reported_circulating_supply": 504504990000000,
+            "self_reported_market_cap": 1450.3425791920574,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 2.87478341729e-12,
+                    "volume_24h": 145.46962745,
+                    "volume_change_24h": -99.9534,
+                    "percent_change_1h": 0.7570289,
+                    "percent_change_24h": 1601.52556206,
+                    "percent_change_7d": -99.99996283,
+                    "percent_change_30d": -99.99997812,
+                    "percent_change_60d": -99.99997954,
+                    "percent_change_90d": -99.99997954,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 2874.78,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        }
+    ],
+    "top_10_by_decrement": [
+        {
+            "id": 12641,
+            "name": "OBRok Token",
+            "symbol": "OBROK",
+            "slug": "obrok-token",
+            "num_market_pairs": 4,
+            "date_added": "2021-10-12T07:19:16.000Z",
+            "tags": [],
+            "max_supply": 10000000000000,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x205afd08cefe438377a0abc5a20cb4462e1a8c5c"
+            },
+            "cmc_rank": 3423,
+            "self_reported_circulating_supply": 272405765774,
+            "self_reported_market_cap": 502745.5949476169,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 1.8455761885918272e-06,
+                    "volume_24h": 528467.97719025,
+                    "volume_change_24h": -51.7212,
+                    "percent_change_1h": -11.45338166,
+                    "percent_change_24h": -98.57733613,
+                    "percent_change_7d": 370.61446759,
+                    "percent_change_30d": 56.00776896,
+                    "percent_change_60d": -27.43559772,
+                    "percent_change_90d": -2.95418494,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 18455761.89,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 13651,
+            "name": "BABY WHITE HAMSTER",
+            "symbol": "BWH",
+            "slug": "baby-white-hamster",
+            "num_market_pairs": 1,
+            "date_added": "2021-11-01T09:07:25.000Z",
+            "tags": [],
+            "max_supply": 100000000000,
+            "circulating_supply": 0,
+            "total_supply": 100000000000,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x4ed2bbfc2fc7b0b7400d8d12248649045e82c708"
+            },
+            "cmc_rank": 7590,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 5.945119075322617e-06,
+                    "volume_24h": 263.06375542,
+                    "volume_change_24h": 52.1033,
+                    "percent_change_1h": 0.75702907,
+                    "percent_change_24h": -97.92514116,
+                    "percent_change_7d": 920.2937878,
+                    "percent_change_30d": -91.95652169,
+                    "percent_change_60d": -99.11818958,
+                    "percent_change_90d": -99.11549983,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 594511.91,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 15768,
+            "name": "WAGMI on Solana",
+            "symbol": "WAGMI",
+            "slug": "wagmi-on-solana",
+            "num_market_pairs": 1,
+            "date_added": "2021-12-08T03:17:07.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 7173444444,
+            "platform": {
+                "id": 5426,
+                "name": "Solana",
+                "symbol": "SOL",
+                "slug": "solana",
+                "token_address": "3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu"
+            },
+            "cmc_rank": 9196,
+            "self_reported_circulating_supply": 7777777777,
+            "self_reported_market_cap": 2141.3159960742764,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 2.753120566656525e-07,
+                    "volume_24h": 0,
+                    "volume_change_24h": 0,
+                    "percent_change_1h": 19.05990421,
+                    "percent_change_24h": -97.15037243,
+                    "percent_change_7d": -98.8738083,
+                    "percent_change_30d": -99.93122675,
+                    "percent_change_60d": -99.92672794,
+                    "percent_change_90d": -99.92672794,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 1974.94,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 5019,
+            "name": "Global Crypto Alliance",
+            "symbol": "CALL",
+            "slug": "global-crypto-alliance",
+            "num_market_pairs": 1,
+            "date_added": "2019-12-09T00:00:00.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 78918545.43,
+            "total_supply": 777000000,
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7"
+            },
+            "cmc_rank": 2769,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 7.791275800246914e-05,
+                    "volume_24h": 23.19745978,
+                    "volume_change_24h": -53.4071,
+                    "percent_change_1h": 1.39834046,
+                    "percent_change_24h": -93.38167464,
+                    "percent_change_7d": -93.76631152,
+                    "percent_change_30d": -91.80700913,
+                    "percent_change_60d": -96.56828002,
+                    "percent_change_90d": -96.94736746,
+                    "market_cap": 6148.761531994457,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 60538.21,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 17717,
+            "name": "Crypto Rocket Launch Plus",
+            "symbol": "RKT",
+            "slug": "crypto-rocket-launch-plus",
+            "num_market_pairs": 1,
+            "date_added": "2022-01-28T10:52:42.000Z",
+            "tags": [],
+            "max_supply": 10000002,
+            "circulating_supply": 0,
+            "total_supply": 100000000,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x3936e06a3024e052D7b97F3827EBcb120fcb1262"
+            },
+            "cmc_rank": 3956,
+            "self_reported_circulating_supply": 10000000,
+            "self_reported_market_cap": 0.0025608763147448,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 2.5608763147448e-10,
+                    "volume_24h": 173772.80383254,
+                    "volume_change_24h": -66.4629,
+                    "percent_change_1h": -19.78856674,
+                    "percent_change_24h": -93.28079461,
+                    "percent_change_7d": -99.97804357,
+                    "percent_change_30d": -99.97804357,
+                    "percent_change_60d": -99.97804357,
+                    "percent_change_90d": -99.97804357,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 0,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 15390,
+            "name": "PixelSQUID",
+            "symbol": "PIXELSQUID",
+            "slug": "pixelsquid",
+            "num_market_pairs": 3,
+            "date_added": "2021-11-30T14:05:08.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x5a549cb605f1e651200c22d1a8482929b36330f7"
+            },
+            "cmc_rank": 5264,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 1.8781569801263764e-05,
+                    "volume_24h": 27874.53331776,
+                    "volume_change_24h": 459.8511,
+                    "percent_change_1h": 12.87491811,
+                    "percent_change_24h": -92.1934828,
+                    "percent_change_7d": -97.96600994,
+                    "percent_change_30d": -98.19099535,
+                    "percent_change_60d": -99.55447528,
+                    "percent_change_90d": -99.76597486,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 0,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 10602,
+            "name": "Base Reward Token",
+            "symbol": "BRT",
+            "slug": "base-reward-token",
+            "num_market_pairs": 5,
+            "date_added": "2021-06-23T00:00:00.000Z",
+            "tags": [
+                "binance-smart-chain"
+            ],
+            "max_supply": 12000000,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x0d499b25bce7aa72bb6c50e434e2ed26fe1e785d"
+            },
+            "cmc_rank": 3777,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 0.00553939542190266,
+                    "volume_24h": 238688.09773071,
+                    "volume_change_24h": 628.0576,
+                    "percent_change_1h": -67.64200431,
+                    "percent_change_24h": -91.02326957,
+                    "percent_change_7d": -91.30404298,
+                    "percent_change_30d": -90.51625086,
+                    "percent_change_60d": -94.50406678,
+                    "percent_change_90d": -96.1394442,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 66472.75,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 10772,
+            "name": "Tardigrades Finance (BSC)",
+            "symbol": "TRDG",
+            "slug": "tardigrades-finance-bsc",
+            "num_market_pairs": 2,
+            "date_added": "2021-07-06T00:00:00.000Z",
+            "tags": [
+                "binance-smart-chain"
+            ],
+            "max_supply": 100000000000000000,
+            "circulating_supply": 0,
+            "total_supply": 35050700000000000,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5"
+            },
+            "cmc_rank": 6817,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 2.838426059676e-11,
+                    "volume_24h": 1908.79288319,
+                    "volume_change_24h": 123.5634,
+                    "percent_change_1h": 1.05356012,
+                    "percent_change_24h": -90.82501403,
+                    "percent_change_7d": 1.65101116,
+                    "percent_change_30d": -27.99666967,
+                    "percent_change_60d": -56.57174051,
+                    "percent_change_90d": -67.70727785,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 2838426.06,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 17606,
+            "name": "Big Red Dog",
+            "symbol": "BDOG",
+            "slug": "big-red-dog",
+            "num_market_pairs": 1,
+            "date_added": "2022-01-25T03:02:52.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 0,
+            "total_supply": 0,
+            "platform": {
+                "id": 1839,
+                "name": "Binance Smart Chain (BEP20)",
+                "symbol": "BNB",
+                "slug": "bnb",
+                "token_address": "0xB0c030344FEeCbF6c8c3059D7d8a8284Afa96dF0"
+            },
+            "cmc_rank": 5348,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 3.1874157352597105e-05,
+                    "volume_24h": 24604.47579257,
+                    "volume_change_24h": 0,
+                    "percent_change_1h": 0.75702907,
+                    "percent_change_24h": -89.67684476,
+                    "percent_change_7d": -89.76576936,
+                    "percent_change_30d": -89.69486935,
+                    "percent_change_60d": -89.69486935,
+                    "percent_change_90d": -89.69486935,
+                    "market_cap": 0,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 0,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        },
+        {
+            "id": 5179,
+            "name": "Celeum",
+            "symbol": "CLX",
+            "slug": "celeum",
+            "num_market_pairs": 2,
+            "date_added": "2020-02-27T00:00:00.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 5127335,
+            "total_supply": 21900000,
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0x9f8f7ea504588a58b8b24b832b5d25a4aeb4706f"
+            },
+            "cmc_rank": 2813,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "last_updated": "2022-02-01T16:43:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 0.00027875353503645895,
+                    "volume_24h": 592.13528051,
+                    "volume_change_24h": 0,
+                    "percent_change_1h": 1.37510524,
+                    "percent_change_24h": -89.28706294,
+                    "percent_change_7d": 14.45303408,
+                    "percent_change_30d": -26.49812648,
+                    "percent_change_60d": -95.91842934,
+                    "percent_change_90d": -96.03087653,
+                    "market_cap": 1429.2627565661624,
+                    "market_cap_dominance": 0,
+                    "fully_diluted_market_cap": 6104.7,
+                    "last_updated": "2022-02-01T16:43:00.000Z"
+                }
+            }
+        }
+    ],
+    "total_price_top_20": 81214.8,
+    "total_price_of_higher_volume_currencies": 113271.4,
+    "percent_change_of_twenty_best": 2.55
+}
