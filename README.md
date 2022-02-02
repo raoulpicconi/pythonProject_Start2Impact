@@ -1,6 +1,6 @@
 # pythonProject_Start2Impact
 
-Cryptocurrency report generator that collect and store currencies's data every day in a JSON file. 
+Cryptocurrency report generator that collect and store currencies's data every day in a JSON file (just start the program and every day at the same time it writes the report). 
 The system get the data through the Coinmarketcap APIs and stores 5 types of information:
 
 1.The cryptocurrency with the largest volume (in $) of the last 24 hours
